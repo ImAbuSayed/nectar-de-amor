@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Néctar de amor
+
+This log tracks the cryptographic history and versioning for the song **Néctar de amor** (nectar-de-amor).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-22T22:38:56.772747 | `v1` | `` | `236b8854dcdfbb0efd3f06fadb530b3941d8ecd00ed0074ed724c6ef576d9ccd` | `2026-06-22_nectar-de-amor-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
